@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <style name="PreferencePanel" parent="">
+        <item name="android:background">?android:attr/detailsElementBackground</item>
+        <item name="android:layout_marginLeft">@dimen/preference_screen_side_margin</item>
+        <item name="android:layout_marginTop">48.0dip</item>
+        <item name="android:layout_marginRight">@dimen/preference_screen_side_margin</item>
+        <item name="android:layout_marginBottom">48.0dip</item>
+    </style>
+    <style name="Theme.Honeycomb.DialogWhenLarge" parent="Theme.Honeycomb.Dialog.MinWidth">
+        <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
+    </style>
+    <style name="Theme.Honeycomb.DialogWhenLarge.NoActionBar" parent="Theme.Honeycomb.Dialog.NoActionBar.MinWidth">
+        <item name="preferencePanelStyle">@style/PreferencePanel.Dialog</item>
+    </style>
+    <style name="Theme.Honeycomb.Light.DialogWhenLarge" parent="Theme.Honeycomb.Light.Dialog.MinWidth">
+    </style>
+    <style name="Theme.Honeycomb.Light.DialogWhenLarge.NoActionBar" parent="Theme.Honeycomb.Light.Dialog.NoActionBar.MinWidth">
+    </style>
+</resources>

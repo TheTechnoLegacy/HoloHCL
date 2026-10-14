@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Annuller</string>
+    <string name="candidates_style"><u>kandidater</u></string>
+    <string name="capital_off">FRA</string>
+    <string name="capital_on">TIL</string>
+    <string name="more_item_label">Mere</string>
+    <string name="no">Annuller</string>
+    <string name="ok">OK</string>
+    <string name="paste">Indsæt</string>
+    <string name="pasteDisabled">Intet at indsætte</string>
+    <string name="yes">OK</string>
+</resources>

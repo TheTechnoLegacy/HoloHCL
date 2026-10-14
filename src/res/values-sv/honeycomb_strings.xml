@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Avbryt</string>
+    <string name="candidates_style"><u>kandidater</u></string>
+    <string name="capital_off">AV</string>
+    <string name="capital_on">PÅ</string>
+    <string name="more_item_label">Mer</string>
+    <string name="no">Avbryt</string>
+    <string name="ok">OK</string>
+    <string name="paste">Klistra in</string>
+    <string name="pasteDisabled">Inget att klistra in</string>
+    <string name="yes">OK</string>
+</resources>

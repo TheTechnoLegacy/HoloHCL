@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <attr name="actionModeFindDrawable" format="reference" />
+    <attr name="actionModePopupWindowStyle" format="reference" />
+    <attr name="actionModeShareDrawable" format="reference" />
+    <attr name="actionModeStyle" format="reference" />
+    <attr name="actionModeWebSearchDrawable" format="reference" />
+    <attr name="alertDialogCenterButtons" format="boolean" />
+    <attr name="borderBottom" format="dimension" />
+    <attr name="borderLeft" format="dimension" />
+    <attr name="borderRight" format="dimension" />
+    <attr name="borderTop" format="dimension" />
+    <attr name="dialogCustomTitleDecorLayout" format="reference" />
+    <attr name="dialogTitleDecorLayout" format="reference" />
+    <attr name="dialogTitleIconsDecorLayout" format="reference" />
+    <attr name="dropdownListPreferredItemHeight" format="dimension" />
+    <attr name="errorMessageAboveBackground" format="reference" />
+    <attr name="errorMessageBackground" format="reference" />
+    <attr name="flingable" format="boolean" />
+    <attr name="gestureOverlayViewStyle" format="reference" />
+    <attr name="keyboardViewStyle" format="reference" />
+    <attr name="listItemLayout" format="reference" />
+    <attr name="listLayout" format="reference" />
+    <attr name="multiChoiceItemLayout" format="reference" />
+    <attr name="numberPickerDownButtonStyle" format="reference" />
+    <attr name="numberPickerInputTextStyle" format="reference" />
+    <attr name="numberPickerStyle" format="reference" />
+    <attr name="numberPickerUpButtonStyle" format="reference" />
+    <attr name="popupPromptView" format="reference" />
+    <attr name="preferenceFrameLayoutStyle" format="reference" />
+    <attr name="preferencePanelStyle" format="reference" />
+    <attr name="quickContactBadgeOverlay" format="reference" />
+    <attr name="quickContactWindowSize">
+        <enum name="modeSmall" value="1" />
+        <enum name="modeMedium" value="2" />
+        <enum name="modeLarge" value="3" />
+    </attr>
+    <attr name="searchDialogTheme" format="reference" />
+    <attr name="searchDropdownBackground" format="reference" />
+    <attr name="searchResultListItemHeight" format="dimension" />
+    <attr name="searchViewCloseIcon" format="reference" />
+    <attr name="searchViewEditQuery" format="reference" />
+    <attr name="searchViewEditQueryBackground" format="reference" />
+    <attr name="searchViewGoIcon" format="reference" />
+    <attr name="searchViewSearchIcon" format="reference" />
+    <attr name="searchViewTextField" format="reference" />
+    <attr name="searchViewTextFieldRight" format="reference" />
+    <attr name="searchViewVoiceIcon" format="reference" />
+    <attr name="searchWidgetCorpusItemBackground" format="reference|color" />
+    <attr name="selectionDivider" format="reference" />
+    <attr name="selectionDividerHeight" format="dimension" />
+    <attr name="singleChoiceItemLayout" format="reference" />
+    <attr name="switchMinWidth" format="dimension" />
+    <attr name="switchPadding" format="dimension" />
+    <attr name="switchStyle" format="reference" />
+    <attr name="switchTextAppearance" format="reference" />
+    <attr name="switchThumb" format="reference" />
+    <attr name="switchTrack" format="reference" />
+    <attr name="tabLayout" format="reference" />
+    <attr name="textColorSearchUrl" format="reference|color" />
+    <attr name="thumbTextPadding" format="dimension" />
+    <attr name="timePickerStyle" format="reference" />
+    <attr name="toastFrameBackground" format="reference" />
+</resources>

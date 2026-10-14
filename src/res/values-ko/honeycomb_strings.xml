@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">취소</string>
+    <string name="candidates_style"><u>가능한 원인</u></string>
+    <string name="capital_off">사용 안함</string>
+    <string name="capital_on">사용</string>
+    <string name="more_item_label">더보기</string>
+    <string name="no">취소</string>
+    <string name="ok">확인</string>
+    <string name="paste">붙여넣기</string>
+    <string name="pasteDisabled">붙여넣을 내용이 없습니다.</string>
+    <string name="yes">확인</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Abbrechen</string>
+    <string name="candidates_style"><u>Kandidaten</u></string>
+    <string name="capital_off">AUS</string>
+    <string name="capital_on">EIN</string>
+    <string name="more_item_label">Mehr</string>
+    <string name="no">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="paste">Einfügen</string>
+    <string name="pasteDisabled">Nichts zum Einfügen</string>
+    <string name="yes">OK</string>
+</resources>

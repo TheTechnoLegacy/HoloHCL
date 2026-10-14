@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Ακύρωση</string>
+    <string name="candidates_style"><u>υποψήφιοι</u></string>
+    <string name="capital_off">Απενεργοποίηση</string>
+    <string name="capital_on">Ενεργοποιημένο</string>
+    <string name="more_item_label">Περισσότερα</string>
+    <string name="no">Ακύρωση</string>
+    <string name="ok">OK</string>
+    <string name="paste">Επικόλληση</string>
+    <string name="pasteDisabled">Καν. στοιχ. για επικ.</string>
+    <string name="yes">OK</string>
+</resources>
