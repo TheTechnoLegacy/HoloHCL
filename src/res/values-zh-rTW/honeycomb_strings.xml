@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">取消</string>
+    <string name="candidates_style"><u>待選項目</u></string>
+    <string name="capital_off">關閉</string>
+    <string name="capital_on">開啟</string>
+    <string name="more_item_label">更多</string>
+    <string name="no">取消</string>
+    <string name="ok">確定</string>
+    <string name="paste">貼上</string>
+    <string name="pasteDisabled">沒有可貼上的內容</string>
+    <string name="yes">確定</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Cancelar</string>
+    <string name="candidates_style"><u>candidatos</u></string>
+    <string name="capital_off">Desactivar</string>
+    <string name="capital_on">Activado</string>
+    <string name="more_item_label">Mais</string>
+    <string name="no">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="paste">Colar</string>
+    <string name="pasteDisabled">Nada para colar</string>
+    <string name="yes">OK</string>
+</resources>

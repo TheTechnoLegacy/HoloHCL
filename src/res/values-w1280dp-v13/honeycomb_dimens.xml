@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="preference_fragment_padding_side">48.0dip</dimen>
+    <dimen name="preference_screen_side_margin">96.0dip</dimen>
+    <dimen name="preference_widget_width">64.0dip</dimen>
+</resources>

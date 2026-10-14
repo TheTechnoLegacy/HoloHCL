@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">İptal</string>
+    <string name="candidates_style"><u>adaylar</u></string>
+    <string name="capital_off">KAPALI</string>
+    <string name="capital_on">AÇIK</string>
+    <string name="more_item_label">Diğer</string>
+    <string name="no">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="paste">Yapıştır</string>
+    <string name="pasteDisabled">Yapştrlck bir şy yok</string>
+    <string name="yes">Tamam</string>
+</resources>
