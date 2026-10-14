@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">キャンセル</string>
+    <string name="candidates_style"><u>候補</u></string>
+    <string name="capital_off">OFF</string>
+    <string name="capital_on">ON</string>
+    <string name="more_item_label">その他</string>
+    <string name="no">キャンセル</string>
+    <string name="ok">OK</string>
+    <string name="paste">貼り付け</string>
+    <string name="pasteDisabled">クリップボードが空です</string>
+    <string name="yes">OK</string>
+</resources>
