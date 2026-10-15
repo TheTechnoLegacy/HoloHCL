@@ -4,5 +4,8 @@ A backport of `Theme.Holo` from Android 3.2 (AOSP) named as `Theme.Honeycomb`.
 HCL stands for **Honeycomb Library**
 # How can I use this in my app(s)?
 Download the `res` file and then place them in the `/src/res` for your app. Additionally, you can remove the unnecessary files for the only-necessary ones.
-# Does it work?
-As of now, it's only tested on **Android 14**. If you are willing to help, download the Demo app from Releases.
+# Want to help?
+If you are willing to help, download the Demo app from Releases.
+# Currently tested on:
+1. Android 14
+2. Android 16
